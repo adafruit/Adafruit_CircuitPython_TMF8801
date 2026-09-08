@@ -1,0 +1,7 @@
+version = 1
+
+[[annotations]]
+path = "adafruit_tmf8801/tmf8801_firmware.py"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Copyright (c) ams OSRAM AG"
+SPDX-License-Identifier = "LicenseRef-ams-OSRAM-Firmware"

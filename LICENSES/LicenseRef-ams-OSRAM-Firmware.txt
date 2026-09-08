@@ -1,0 +1,14 @@
+ams OSRAM TMF8801 Firmware
+==========================
+
+This license applies only to the TMF8801 RAM firmware image distributed in this
+repository as adafruit_tmf8801/tmf8801_firmware.py. It does not apply to any
+other file; the rest of the library is under the MIT license.
+
+The image was generated from main_app_3v3_k2.hex in the official ams OSRAM
+TMF8801_FW_v3.0.22.0 software package:
+
+  https://ams-osram.com/products/sensor-solutions/direct-time-of-flight-sensors-dtof/ams-tmf8801-1d-time-of-flight-sensor
+
+The firmware image is copyright ams OSRAM AG and is provided for use with
+TMF8801 devices. It is not covered by this library's MIT license.
