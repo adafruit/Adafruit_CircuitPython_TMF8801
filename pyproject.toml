@@ -43,7 +43,7 @@ dynamic = ["dependencies", "optional-dependencies"]
 [tool.setuptools]
 # TODO: IF LIBRARY FILES ARE A PACKAGE FOLDER,
 #       CHANGE `py_modules = ['...']` TO `packages = ['...']`
-py-modules = ["adafruit_tmf8801"]
+packages = ["adafruit_tmf8801"]
 
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
