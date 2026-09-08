@@ -11,4 +11,4 @@ API Reference
     :members:
 
 .. automodule:: adafruit_tmf8801.tmf8801_firmware
-    :members:
+    :no-members:
